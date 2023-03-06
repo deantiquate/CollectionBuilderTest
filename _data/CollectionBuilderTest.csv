@@ -1,14 +1,4 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,yul_1153558_Medium_sized_JPEG,,,Partie de l'Amérique septent? qui comprend la Nouvelle France ou le Canada,x,,Description,maps;New France,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",yul_1153558_Medium_sized_JPEG,Image;StillImage,image/jpeg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
-coll002,yul_1153574_Medium_sized_JPEG,,,Upper Canada by J. Arrowsmith. 1837.,y,,Description,maps;Upper Canada,,,,,yul_1153574_Medium_sized_JPEG,,,,,
-coll003,yul_1153577_Medium_sized_JPEG,,,"Canada, New Brunswick and Nova Scotia by Sidney Hall",z,,Description,,,,,,yul_1153577_Medium_sized_JPEG,,,,,
-coll004,,,,,,,,,,,,,,,,,,
-coll005,,,,,,,,,,,,,,,,,,
-coll006,,,,,,,,,,,,,,,,,,
-coll007,,,,,,,,,,,,,,,,,,
-coll008,,,,,,,,,,,,,,,,,,
-coll009,,,,,,,,,,,,,,,,,,
-coll010,,,,,,,,,,,,,,,,,,
-coll011,,,,,,,,,,,,,,,,,,
-coll012,,,,,,,,,,,,,,,,,,
-coll013,,,,,,,,,,,,,,,,,,
+coll001,yul_1153558_Medium_sized_JPEG.jpg,,,Partie de l'Amérique septent? qui comprend la Nouvelle France ou le Canada,x,,Description,maps;New France,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",yul_1153558_Medium_sized_JPEG,Image;StillImage,image/jpeg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
+coll002,yul_1153574_Medium_sized_JPEG.jpg,,,Upper Canada by J. Arrowsmith. 1837.,y,,Description,maps;Upper Canada,,,,,yul_1153574_Medium_sized_JPEG,,,,,
+coll003,yul_1153577_Medium_sized_JPEG.jpg,,,"Canada, New Brunswick and Nova Scotia by Sidney Hall",z,,Description,,,,,,yul_1153577_Medium_sized_JPEG,,,,,
